@@ -22,6 +22,8 @@
 
 ![broken-img](./home_work_2.md.d/task_1_make_branch.png)
 
+Url проекта [https://github.com/ISVios/GB_HT_D/tree/develop_1]
+
 ---
 
 ## 2. Работа с проектом
