@@ -1,3 +1,4 @@
 [submodule "Zhemanov_Alexandr_dz_2/GB_HT_D"]
 	path = Zhemanov_Alexandr_dz_2/GB_HT_D
 	url = https://github.com/ISVios/GB_HT_D.git
+	branch = develop_1
